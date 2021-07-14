@@ -9,7 +9,7 @@
 
 .PHONY: all
 
-all: output/paper-fosas.pdf
+all: output/presentacion-fosas-fafg.pdf
 
 clean:
 	rm -r output/*
@@ -17,9 +17,9 @@ clean:
 R_OPTS=--no-save --no-restore --no-init-file --no-site-file
 KNIT="rmarkdown::render(input='$<', output_dir='output/')"
 
-output/paper-fosas.pdf: \
+output/presentacion-fosas-fafg.pdf: \
 		src/presentacion-fosas-fafg.Rmd
 	Rscript $(R_OPTS) -e $(KNIT)
-	-rm src/paper-fosas.log
+	-rm src/presentacion-fosas-fafg.log
 
 # done.
