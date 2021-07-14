@@ -1,3 +1,3 @@
-# Presentación para el Seminario Registro y Análisis de Violaciones a los Derechos Humanos en América Latina
+# Presentación para el Datos, Machine Learning y la predicción de ubicación de fosas en México
 
-Presentación de Oscar Elton y Jorge Ruiz sobre fosas clandestinas en México para el seminario organizado por la Universidad de Chile el 21 de octubre de 2020.
+Presentación de Oscar Elton y Jorge Ruiz sobre fosas clandestinas en México para el seminario organizado por la FAFG y la Unidad de Búsqueda de Personas de Colombia el 15 de julio de 2021. 
